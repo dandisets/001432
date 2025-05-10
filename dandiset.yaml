@@ -7,9 +7,14 @@ access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach: []
+  dataStandard: []
+  measurementTechnique: []
+  numberOfBytes: 72117705682
+  numberOfFiles: 43
   schemaKey: AssetsSummary
+  species: []
+  variableMeasured: []
 citation: Rodgers, Chris (2025) Freely moving mouse 3d tracking and neural data (Version
   draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001432/draft
 contributor:
